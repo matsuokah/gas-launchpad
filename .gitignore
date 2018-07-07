@@ -1,0 +1,10 @@
+# Directory
+dist/
+node_modules/
+
+# File
+.DS_Store
+*.log
+*.log.*
+.idea/
+.swp*
